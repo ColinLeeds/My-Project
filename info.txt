@@ -1,0 +1,40 @@
+www.brilliantwebsites.net
+============================
+
+hosted: locally
+
+Drupal:
+U: admin
+P: 0#53ugKaVEmL
+
+
+
+
+Hosting - eUKHost
+
+----------------------------------------------------
+cpanel
+www.brilliantwebsites.net/cpanel
+U: pictures
+P: (VQJH5XKE@h0nR3)BI
+
+-----------------------------------------------------
+FTP 
+host:  ftp.picturesforyourwall.com
+U:brilliantwebsites@picturesforyourwall.com
+P: 7wxQNuM9BaTM
+
+----------------------------------------------------
+email
+U: admin@brilliantwebsites.net
+P: AWtYaJWhiX3D
+
+U: updates@brilliantwebsites.net
+P: mzag$OdZ47Zv
+
+SSL/TLS
+IMAP:
+berkshire.redbackinternet.net:993
+
+SMTP
+berkshire.redbackinternet.net:465
