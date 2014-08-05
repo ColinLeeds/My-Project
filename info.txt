@@ -37,5 +37,5 @@ IMAP:
 berkshire.redbackinternet.net:993
 
 SMTP
-berkshire.redbackinternet.net:465
+berkshire.redbackinternet.net:465 
 
